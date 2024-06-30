@@ -23,25 +23,32 @@ Key Features
 3. Level Modes:
    
    ○ Normal Mode: Fill progress bars by forming chains. Levels require progressively more points.
+   
    ○ Time Trial Mode: Maintain a filled progress bar to level up, starting with a partially filled bar.
-4. Game Board and Graphics:
+5. Game Board and Graphics:
    
    ○ Customizable game board with various animal species (minimum of 6, maximum of 8).
+   
    ○ Creative and aesthetically pleasing graphics and game layout.
-5. Interactive Gameplay:
+7. Interactive Gameplay:
    
    ○ Swap animals using the mouse.
+   
    ○ Visual progress bars display counts of each animal species.
-6. Level Progression and Constraints:
+9. Level Progression and Constraints:
    
    ○ Specific numbers of each animal species needed to advance levels.
+   
    ○ Time constraints introduced in higher levels.
-7. Game Over Conditions:
+11. Game Over Conditions:
    
    ○ Limited number of moves per level.
+   
    ○ Game ends when no more moves are available.
-8. Bonus Points:
+11. Bonus Points:
    
    ○ Creativity in game board design.
+   
    ○ High-quality graphics and game aesthetics.
+   
    ○ Additional features like player profiles, including name, levels completed, and completion rate
