@@ -30,25 +30,25 @@ Key Features
    ○ Customizable game board with various animal species (minimum of 6, maximum of 8).
    
    ○ Creative and aesthetically pleasing graphics and game layout.
-7. Interactive Gameplay:
+6. Interactive Gameplay:
    
    ○ Swap animals using the mouse.
    
    ○ Visual progress bars display counts of each animal species.
    
-9. Level Progression and Constraints:
+7. Level Progression and Constraints:
    
    ○ Specific numbers of each animal species needed to advance levels.
    
    ○ Time constraints introduced in higher levels.
    
-10. Game Over Conditions:
+8. Game Over Conditions:
    
    ○ Limited number of moves per level.
    
    ○ Game ends when no more moves are available.
    
-11. Bonus Points:
+9. Bonus Points:
    
    ○ Creativity in game board design.
    
