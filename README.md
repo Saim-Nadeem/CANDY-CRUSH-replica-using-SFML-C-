@@ -40,7 +40,7 @@ Key Features
    ○ Specific numbers of each animal species needed to advance levels.
    
    ○ Time constraints introduced in higher levels.
-11. Game Over Conditions:
+10. Game Over Conditions:
    
    ○ Limited number of moves per level.
    
