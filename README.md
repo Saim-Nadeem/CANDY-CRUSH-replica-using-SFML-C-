@@ -35,16 +35,19 @@ Key Features
    ○ Swap animals using the mouse.
    
    ○ Visual progress bars display counts of each animal species.
+   
 9. Level Progression and Constraints:
    
    ○ Specific numbers of each animal species needed to advance levels.
    
    ○ Time constraints introduced in higher levels.
+   
 10. Game Over Conditions:
    
    ○ Limited number of moves per level.
    
    ○ Game ends when no more moves are available.
+   
 11. Bonus Points:
    
    ○ Creativity in game board design.
